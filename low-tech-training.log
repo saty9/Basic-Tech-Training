@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.7.27)  22 FEB 2017 16:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.7.27)  6 MAR 2017 17:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -704,7 +704,7 @@ LaTeX Info: Redefining \nameref on input line 75.
 \openout3 = `low-tech-training.out'.
 
 
-<eusa-logo.jpg, id=68, 1572.87625pt x 882.29625pt>
+<eusa-logo.jpg, id=76, 1572.87625pt x 882.29625pt>
 File: eusa-logo.jpg Graphic file (type jpg)
  <use eusa-logo.jpg>
 Package pdftex.def Info: eusa-logo.jpg used on input line 86.
@@ -752,7 +752,7 @@ Underfull \hbox (badness 1400) in paragraph at lines 117--118
 \OT1/cmr/m/n/14.4 send cur-rent over long dis-tances.
  []
 
-[2] <13amp.jpg, id=87, 803.0pt x 803.0pt>
+[2] <13amp.jpg, id=95, 803.0pt x 803.0pt>
 File: 13amp.jpg Graphic file (type jpg)
  <use 13amp.jpg>
 Package pdftex.def Info: 13amp.jpg used on input line 131.
@@ -767,7 +767,7 @@ Underfull \hbox (badness 1259) in paragraph at lines 131--132
 \OT1/cmr/m/n/14.4 This is your stan-dard plug/cable
  []
 
-<15amp.jpg, id=88, 752.8125pt x 752.8125pt>
+<15amp.jpg, id=96, 752.8125pt x 752.8125pt>
 File: 15amp.jpg Graphic file (type jpg)
  <use 15amp.jpg>
 Package pdftex.def Info: 15amp.jpg used on input line 133.
@@ -777,7 +777,7 @@ Underfull \hbox (badness 1147) in paragraph at lines 133--134
 [][]\OT1/cmr/bx/n/14.4 15 Amp: \OT1/cmr/m/n/14.4 This
  []
 
-<16amp.jpg, id=89, 803.0pt x 803.0pt>
+<16amp.jpg, id=97, 803.0pt x 803.0pt>
 File: 16amp.jpg Graphic file (type jpg)
  <use 16amp.jpg>
 Package pdftex.def Info: 16amp.jpg used on input line 135.
@@ -786,13 +786,13 @@ Package pdftex.def Info: 16amp.jpg used on input line 135.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-<32amp.jpg, id=90, 1027.84pt x 641.39626pt>
+<32amp.jpg, id=98, 1027.84pt x 641.39626pt>
 File: 32amp.jpg Graphic file (type jpg)
  <use 32amp.jpg>
 Package pdftex.def Info: 32amp.jpg used on input line 137.
 (pdftex.def)             Requested size: 164.45775pt x 102.62549pt.
 
-<63amp.jpg, id=91, 1027.84pt x 632.3625pt>
+<63amp.jpg, id=99, 1027.84pt x 632.3625pt>
 File: 63amp.jpg Graphic file (type jpg)
  <use 63amp.jpg>
 Package pdftex.def Info: 63amp.jpg used on input line 139.
@@ -801,7 +801,7 @@ Package pdftex.def Info: 63amp.jpg used on input line 139.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3 <./13amp.jpg> <./15amp.jpg> <./16amp.jpg> <./32amp.jpg> <./63amp.jpg>]
-<audio_labeled_diagram.jpg, id=97, 1343.0175pt x 770.27776pt>
+<audio_labeled_diagram.jpg, id=105, 1343.0175pt x 770.27776pt>
 File: audio_labeled_diagram.jpg Graphic file (type jpg)
 
 <use audio_labeled_diagram.jpg>
@@ -827,7 +827,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 192--192
 []\OT1/cmr/bx/n/17.28 Balanced and Un-bal-
  []
 
-<dirty-signal.png, id=108, 645.612pt x 178.86826pt>
+<dirty-signal.png, id=116, 645.612pt x 178.86826pt>
 File: dirty-signal.png Graphic file (type png)
  <use dirty-signal.png>
 Package pdftex.def Info: dirty-signal.png used on input line 201.
@@ -836,7 +836,7 @@ Package pdftex.def Info: dirty-signal.png used on input line 201.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<inverted-signal.png, id=110, 647.41875pt x 179.4705pt>
+<inverted-signal.png, id=118, 647.41875pt x 179.4705pt>
 File: inverted-signal.png Graphic file (type png)
 
 <use inverted-signal.png>
@@ -846,7 +846,7 @@ Package pdftex.def Info: inverted-signal.png used on input line 213.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<second-inverted.png, id=112, 643.203pt x 169.23225pt>
+<second-inverted.png, id=120, 643.203pt x 169.23225pt>
 File: second-inverted.png Graphic file (type png)
 
 <use second-inverted.png>
@@ -856,7 +856,7 @@ Package pdftex.def Info: second-inverted.png used on input line 225.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<clean-signal.png, id=114, 641.39626pt x 236.68425pt>
+<clean-signal.png, id=122, 641.39626pt x 236.68425pt>
 File: clean-signal.png Graphic file (type png)
  <use clean-signal.png>
 Package pdftex.def Info: clean-signal.png used on input line 237.
@@ -875,13 +875,13 @@ Underfull \hbox (badness 2080) in paragraph at lines 252--253
 []\OT1/cmr/m/n/14.4 A ca-ble car-ry-ing \OT1/cmr/bx/n/14.4 bal-anced sig-nal
  []
 
-<xlr2.jpg, id=115, 1284.8pt x 754.82pt>
+<xlr2.jpg, id=123, 1284.8pt x 754.82pt>
 File: xlr2.jpg Graphic file (type jpg)
  <use xlr2.jpg>
 Package pdftex.def Info: xlr2.jpg used on input line 261.
 (pdftex.def)             Requested size: 154.16934pt x 90.5745pt.
 
-<bal_jack.jpg, id=116, 349.305pt x 349.305pt>
+<bal_jack.jpg, id=124, 349.305pt x 349.305pt>
 File: bal_jack.jpg Graphic file (type jpg)
  <use bal_jack.jpg>
 Package pdftex.def Info: bal_jack.jpg used on input line 263.
@@ -890,7 +890,7 @@ Package pdftex.def Info: bal_jack.jpg used on input line 263.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-<jack_ts.jpg, id=125, 501.875pt x 416.55624pt>
+<jack_ts.jpg, id=133, 501.875pt x 416.55624pt>
 File: jack_ts.jpg Graphic file (type jpg)
  <use jack_ts.jpg>
 Package pdftex.def Info: jack_ts.jpg used on input line 275.
@@ -900,7 +900,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 275--276
 [][]\OT1/cmr/bx/n/14.4 Unbalanced
  []
 
-<rca.jpg, id=126, 1505.625pt x 497.86pt>
+<rca.jpg, id=134, 1505.625pt x 497.86pt>
 File: rca.jpg Graphic file (type jpg)
  <use rca.jpg>
 Package pdftex.def Info: rca.jpg used on input line 277.
@@ -921,7 +921,7 @@ Underfull \hbox (badness 1394) in paragraph at lines 277--278
  []
 
 [7 <./dirty-signal.png> <./inverted-signal.png> <./bal_jack.jpg> <./jack_ts.jpg
->] <minijack2.jpg, id=132, 798.5835pt x 260.172pt>
+>] <minijack2.jpg, id=140, 798.5835pt x 260.172pt>
 File: minijack2.jpg Graphic file (type jpg)
  <use minijack2.jpg>
 Package pdftex.def Info: minijack2.jpg used on input line 279.
@@ -936,7 +936,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8 <./second-inverted.png> <./clean-signal.png> <./rca.jpg> <./minijack2.jpg>]
 
-<nl2.jpg, id=137, 969.6225pt x 969.6225pt>
+<nl2.jpg, id=145, 969.6225pt x 969.6225pt>
 File: nl2.jpg Graphic file (type jpg)
  <use nl2.jpg>
 Package pdftex.def Info: nl2.jpg used on input line 289.
@@ -946,23 +946,74 @@ Underfull \hbox (badness 10000) in paragraph at lines 289--290
 [][]\OT1/cmr/bx/n/14.4 Speakon
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 322.
-[9
+<mixing-desk3.jpg, id=148, 503.8825pt x 287.0725pt>
+File: mixing-desk3.jpg Graphic file (type jpg)
+ <use mixing-desk3.jpg>
+Package pdftex.def Info: mixing-desk3.jpg used on input line 300.
+(pdftex.def)             Requested size: 256.0748pt x 145.89253pt.
 
- <./nl2.jpg>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 322.
+Overfull \hbox (0.82564pt too wide) in paragraph at lines 300--301
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<channel-strip.jpg, id=150, 440.847pt x 1042.49475pt>
+File: channel-strip.jpg Graphic file (type jpg)
+ <use channel-strip.jpg>
+Package pdftex.def Info: channel-strip.jpg used on input line 317.
+(pdftex.def)             Requested size: 284.52756pt x 672.8255pt.
+
+Overfull \hbox (29.2784pt too wide) in paragraph at lines 317--318
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 28.38036pt on input line 322.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<aux-section.jpg, id=153, 316.7835pt x 896.148pt>
+File: aux-section.jpg Graphic file (type jpg)
+ <use aux-section.jpg>
+Package pdftex.def Info: aux-section.jpg used on input line 331.
+(pdftex.def)             Requested size: 227.62204pt x 643.91335pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<master-section.jpg, id=154, 419.76825pt x 884.70525pt>
+File: master-section.jpg Graphic file (type jpg)
+
+<use master-section.jpg>
+Package pdftex.def Info: master-section.jpg used on input line 341.
+(pdftex.def)             Requested size: 284.52756pt x 599.68819pt.
+
+Overfull \hbox (29.2784pt too wide) in paragraph at lines 341--342
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9 <./nl2.jpg> <./mixing-desk3.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 374.
+ [10 <./channel-strip.jpg>] [11 <./aux-section.jpg> <./master-section.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 374.
  (./low-tech-training.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 322.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 322.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 374.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 374.
 Package rerunfilecheck Info: File `low-tech-training.out' has not changed.
-(rerunfilecheck)             Checksum: AB3838666CD60AF821541A86E0934513;1012.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 322.
+(rerunfilecheck)             Checksum: CF7DEBFCB8B11E1291C3C5E27D00C03A;1159.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 374.
  ) 
 Here is how much of TeX's memory you used:
- 6802 strings out of 493029
- 99778 string characters out of 6136234
- 302430 words of memory out of 5000000
- 10219 multiletter control sequences out of 15000+600000
+ 6838 strings out of 493029
+ 100414 string characters out of 6136234
+ 302798 words of memory out of 5000000
+ 10243 multiletter control sequences out of 15000+600000
  10058 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  29i,8n,32p,667b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -972,10 +1023,10 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on low-tech-training.pdf (9 pages, 2335230 bytes).
+Output written on low-tech-training.pdf (11 pages, 3148601 bytes).
 PDF statistics:
- 173 PDF objects out of 1000 (max. 8388607)
- 137 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 500000)
- 214 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 205 PDF objects out of 1000 (max. 8388607)
+ 163 compressed objects within 2 object streams
+ 39 named destinations out of 1000 (max. 500000)
+ 250 words of extra memory for PDF output out of 10000 (max. 10000000)
 
