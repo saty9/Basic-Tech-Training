@@ -27,6 +27,7 @@
 \usepackage{hyperref}
 
 \usepackage{float}
+\usepackage{placeins}
 
 %The mathematical package:
 %\usepackage{mathtools}
@@ -35,6 +36,16 @@
 \long\def\/*#1*/{}
 
 \usepackage{textcomp}
+
+% force images to stay in sections
+\let\Oldsection\section
+\renewcommand{\section}{\FloatBarrier\Oldsection}
+
+\let\Oldsubsection\subsection
+\renewcommand{\subsection}{\FloatBarrier\Oldsubsection}
+
+\let\Oldsubsubsection\subsubsection
+\renewcommand{\subsubsection}{\FloatBarrier\Oldsubsubsection}
 
 
 %----------------------------------------------------------------------------------------
@@ -58,14 +69,14 @@
 %	ARTICLE INFORMATION
 %----------------------------------------------------------------------------------------
 
-\pretitle{%
-  \begin{center}
+
+\title{
+\begin{center}
   \LARGE
   \includegraphics[height=5cm]{eusa-logo.jpg}\\[\bigskipamount]
-}
-\posttitle{\end{center}}
-
-\title{\huge {\textbf{Basic Tech Training}}} % Article title
+\huge {\textbf{Basic Tech Training}}
+\end{center}
+} % Article title
 
 %\author{Martin, Cat, Louis, Rich and the rest} 
 \date{March, 2017}
